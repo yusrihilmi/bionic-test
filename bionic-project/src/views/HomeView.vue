@@ -14,7 +14,7 @@ import TheWelcome from '../components/TheWelcome.vue'
     <section class="text-gray-600 body-font">
       <div class="px-4 py-2 mx-auto flex flex-wrap bg-black">
         <h2 class="sm:text-3xl text-m text-gray-900 font-medium title-font border-solid border-black md:w-1/2 text-[#0808f2] bg-[#0808f2] border-4">Kickstarter Actually Pinterest
-          Brunch Bitters Occupy</h2>
+          Brunch Bitters Occuuu</h2>
         <div class="md:w-1/2 md:pl-2 border-4 text-[#0808f2] bg-[#0808f2] border-solid border-black">
           <p class="leading-relaxed text-base">Taxidermy bushwick celiac master cleanse microdosing seitan. Fashion axe
             </p>
