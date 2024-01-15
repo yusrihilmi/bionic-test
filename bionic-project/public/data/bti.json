@@ -40,7 +40,7 @@
     {
       "id": 2,
       "title": "UI/UX Content Writer",
-      "url": "marketing-planner",
+      "url": "uiux-writter",
       "createdBy": "orchestration protocol virtual",
       "createdDate": "2022-05-18T03:56:14Z",
       "lastModifiedBy": "admin",
@@ -86,7 +86,7 @@
     {
       "id": 1451,
       "title": "UI/UX Content Planner",
-      "url": "marketing-planner",
+      "url": "uiux-planner",
       "createdBy": null,
       "createdDate": "1970-01-01T00:00:00Z",
       "lastModifiedBy": "admin",
@@ -132,7 +132,7 @@
     {
       "id": 1452,
       "title": "UI/UX Designer",
-      "url": "marketing-planner",
+      "url": "uiux-design",
       "createdBy": null,
       "createdDate": "1970-01-01T00:00:00Z",
       "lastModifiedBy": "admin",
@@ -174,7 +174,7 @@
     {
       "id": 1453,
       "title": "HR/Legal Manager",
-      "url": "marketing-planner",
+      "url": "hr-manager",
       "createdBy": null,
       "createdDate": "1970-01-01T00:00:00Z",
       "lastModifiedBy": "admin",
@@ -224,7 +224,7 @@
     {
       "id": 3101,
       "title": "Java Spring Boot ",
-      "url": "marketing-planner",
+      "url": "java-spring-boot",
       "createdBy": "isbandi@bti.id",
       "createdDate": "2022-07-25T13:23:31.116Z",
       "lastModifiedBy": "isbandi@bti.id",

@@ -93,7 +93,7 @@ import { RouterLink, RouterView } from 'vue-router'
 </template>
 
 <style>
-.job-title-description.Marketing {
+.job-title-description.Manager {
     display: block;
 }
 
@@ -101,7 +101,7 @@ import { RouterLink, RouterView } from 'vue-router'
     display: none;
 }
 
-.job-description.Marketing {
+.job-description.Manager {
     display: block;
 }
 
@@ -118,7 +118,7 @@ export default {
         return {
             formData: {
                 displayName: '',
-                subject: 'Marketing Planner',
+                subject: 'HR/Legal Manager',
                 email: '',
                 phone: '',
                 message: '',
