@@ -5,8 +5,10 @@
                 <span class=" text-xl">Bionic Project Yusri</span>
             </a>
             <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-                <a href="/" class="hover:text-gray-900">Responsive Web </a>
-                <a href="about" class="ml-5 hover:text-gray-900">API Test</a>
+                <RouterLink to="/">Responsive Web </RouterLink>
+                <RouterLink to="/about">API Test </RouterLink>
+                <!-- <a href="/" class="hover:text-gray-900">Responsive Web </a>
+                <a href="about" class="ml-5 hover:text-gray-900">API Test</a> -->
             </nav>
     </div>
 </header></template>
