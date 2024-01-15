@@ -15,7 +15,9 @@ import { RouterLink, RouterView } from 'vue-router'
                     <div class="flex border-2 rounded-lg border-gray-200 border-opacity-50 p-8 sm:flex-row flex-col">
                         <div class="flex-grow flex justify-between">
                             <h2 class="text-gray-900 text-lg title-font font-medium job-title" :class="jobPost.title" :id="jobPost.id">{{ jobPost.title }}</h2>
-                            <router-link class="text-indigo-500 inline-flex items-center" :to="jobPost.url">See Job</router-link>
+                            <a :href="jobPost.url" class="text-indigo-500 inline-flex items-center">See Job
+                                
+                            </a>
                         </div>
                     </div>
                 </div>
