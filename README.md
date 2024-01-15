@@ -60,4 +60,30 @@ F. Penjelasan Singkat
 
 - Objek Relational Mapping (ORM) merupakan sebuah ide atau teknik yang digunakan untuk memetakan basis data menjadi sebuah class.
 
-- 
+- Dalam konteks ORM (Object-Relational Mapping), "class" mengacu pada representasi pemetaan objek dari struktur data dalam basis data relasional. Dalam konteks HTML, "class" adalah atribut yang digunakan untuk memberikan satu atau lebih nama kelas (class names) kepada suatu elemen HTML. Kelas ini dapat digunakan untuk memberikan gaya atau penanganan khusus melalui CSS, atau sebagai referensi dalam skrip JavaScript.
+
+- Dalam JavaScript, "function" adalah blok kode yang dirancang untuk melakukan tugas tertentu dapat dipanggil (dijalankan) di beberapa tempat dalam program.
+
+- DevOps merupakan budaya kerja yang meningkatkan kolaborasi antara developer dan operasional IT. Tujuannya adalah untuk mengatasi batasan-batasan antara pengembangan dan operasi, dengan menciptakan alur kerja yang lebih terintegrasi dan efisien dalam seluruh siklus pengembangan, pengujian, dan pengiriman hasil.
+
+- Docker adalah platform kontainer yang memungkinkan pengembang untuk membuat, mengemas, dan menjalankan aplikasi dalam kontainer. Docker menyediakan alat untuk membangun dan menjalankan kontainer, serta manajemen image.
+
+G. Architecture Application
+
+1. Microservices Architecture
+   Java spring boot, ASP.NET
+
+   Memungkinkan pengembangan, pengujian, dan penyebaran independen bagi setiap mikro layanan, memungkinkan skala secara horizontal untuk meningkatkan performa.
+   Dapat ditulis dengan berbagai bahasa pemrograman yang paling cocok untuk kebutuhan spesifiknya.
+
+2. Serverless Architecture
+   AWS, Google Cloud
+
+   Fungsi hanya dijalankan saat dipanggil, menghilangkan kebutuhan untuk mempertahankan server yang berjalan secara terus-menerus.
+   Platform serverless secara otomatis menangani skalabilitas dan manajemen sumber daya, sehingga pengembang dapat fokus pada logika aplikasi.
+
+3. Single Page Application (SPA) Architecture
+   Angular, VueJS, ReactJS
+
+   Memungkinkan pengguna dapat mengakeses lebih cepat dan responsif dengan mengurangi kebutuhan untuk memuat ulang halaman secara penuh.
+   Memungkinkan pengembangan terpusat dan pemeliharaan aplikasi, karena logika aplikasi dan tampilan dapat diimplementasikan dalam satu basis kode.
